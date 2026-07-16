@@ -70,8 +70,6 @@
 * Object-Oriented Programming (OOP)
 * Database Management Systems (DBMS)
 * Operating Systems
-* Computer Networks
-* Software Engineering
 * Machine Learning Fundamentals
 * Deep Learning Fundamentals
 
@@ -150,13 +148,6 @@ Developed an enterprise document assistant capable of answering questions from o
 
 **Tech Stack:** LangChain, FAISS, Streamlit, HuggingFace Embeddings
 
----
-
-## 👩 Women's Safety Mobile Application
-
-Developed an Android application providing emergency alerts and real-time location sharing for women's safety.
-
-**Tech Stack:** Java, Android Studio
 
 ---
 
