@@ -170,9 +170,6 @@ Developed an Android application providing emergency alerts and real-time locati
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
 
@@ -194,9 +191,9 @@ Developed an Android application providing emergency alerts and real-time locati
 
 📧 **Email:** [sujalbkubsad04@gmail.com](mailto:sujalbkubsad04@gmail.com)
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+🔗 **LinkedIn:** [https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/sujal-kb-262242323/)
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💻 **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Sujal-KB)
 
 ---
 
