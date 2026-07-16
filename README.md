@@ -162,7 +162,7 @@ Developed an enterprise document assistant capable of answering questions from o
 # 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sujal-KB\&theme=tokyonight)
 
 ---
 
